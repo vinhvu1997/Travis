@@ -1,4 +1,4 @@
-# Learn Travis
+# Learning Travis
 
 <div align="center">
     <a href="https://travis-ci.org/">
