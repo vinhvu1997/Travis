@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-echo "Running pre-commit hook"
+echo "Running pre-push hook"
 cd $GOPATH/src/Travis
 go test
 
