@@ -7,9 +7,3 @@ go:
 - tip
 script:
 - go test -v ./...
-language: node_js
-node_js:
- - "node"
-env:
-- MY_VAR=EverythignIsAwesome
-- NODE_ENV=TEST
